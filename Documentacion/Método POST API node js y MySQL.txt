@@ -1,5 +1,8 @@
 localhost:3300/usuarios
 
+Opción Body
+-----------
+
 {
   "Rol": "Administrador",
   "Nombre": "Juan Carlos",
