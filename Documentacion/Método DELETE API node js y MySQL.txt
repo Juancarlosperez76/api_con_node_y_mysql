@@ -1,0 +1,6 @@
+localhost:3300/usuarios/1022112765
+
+Opción Body
+-----------
+
+NOTA: En la ruta ponemos el número de documento del usuario a eliminar.
