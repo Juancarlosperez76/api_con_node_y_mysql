@@ -17,7 +17,7 @@ Opción Body
 
 {
   "Rol": "Empleado",
-  "Nombre": "Adrián",
+  "Nombre": "Adrian",
   "Apellidos": "Romero",
   "TipoDocumento": "Cédula de extrnajería",
   "Documento": 1022112765,
@@ -32,7 +32,7 @@ Opción Body
   "Nombre": "Josefina",
   "Apellidos": "López",
   "TipoDocumento": "Cédula",
-  "Documento": 78832746,
+  "Documento": 50839746,
   "Direccion": "Cra 59#12-16",
   "Telefono": 2147483647,
   "Correo": "josefina@gmail.com",
